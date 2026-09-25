@@ -26,5 +26,5 @@ Preferred School/Course: ${school}
 JAMB Score/Exam: ${score}
 Message: ${message}`;
 
-  window.open("https://wa.me/2348115524304?text=" + encodeURIComponent(text), "_blank");
+  window.open("https://wa.me/2348133479951?text=" + encodeURIComponent(text), "_blank");
 });
